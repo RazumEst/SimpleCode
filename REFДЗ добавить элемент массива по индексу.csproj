@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>REFДЗ_добавить_элемент_массива_по_индексу</RootNamespace>
+  </PropertyGroup>
+
+</Project>
